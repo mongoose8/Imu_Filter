@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+ <node pkg="imu_filter" type="imu_filter" name="imu_filter" output="screen">
+ 
+ </node>
+ 
+ </launch>
